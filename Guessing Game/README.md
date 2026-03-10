@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gopal-star2005/assets/main/guessing-game-banner.svg" alt="Number Guessing Game Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Number%20Guessing%20Game&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 # 🎯 Number Guessing Game — Python CLI Game
