@@ -74,11 +74,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/Gopal-star2005/python-calculator.git
 cd python-calculator
-python calculator.py
-
+python calculator.py 
+```
 ---
 
-🎯 Use Cases
+# 🎯 Use Cases
 
 -Python programming practice
 -Learning CLI application design
@@ -87,7 +87,7 @@ python calculator.py
 
 ---
 
-🧠 Concepts Demonstrated
+# 🧠 Concepts Demonstrated
 
 -Python functions
 -Conditional logic
@@ -98,13 +98,13 @@ python calculator.py
 
 ---
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
 
 ---
 
-🤝 Contributions
+# 🤝 Contributions
 
 Contributions are welcome.
 Fork the repository
@@ -113,7 +113,7 @@ Submit a pull request
 
 ---
 
-📬 Contact
+# 📬 Contact
 
 📧 Email: mahapatragopalkrushna34@gmail.com
 💼 LinkedIn: http://www.linkedin.com/in/gopal-krushna-mahapatra-3a974928b
@@ -121,4 +121,4 @@ Submit a pull request
 
 ---
 
-⭐ If you find this project useful, consider giving it a star!
+*⭐ If you find this project useful, consider giving it a star!*
