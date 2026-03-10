@@ -196,8 +196,10 @@ This project is licensed under the **MIT License**.
 
 **Gopal Krushna Mahapatra**
 
-📧 Email: [mahapatragopalkrushna34@gmail.com](mailto:mahapatragopalkrushna34@gmail.com)
+📧 Email: mahapatragopalkrushna34@gmail.com
+
 💼 LinkedIn: http://www.linkedin.com/in/gopal-krushna-mahapatra-3a974928b
+
 🧑‍💻 GitHub: https://github.com/Gopal-star2005
 
 ---
