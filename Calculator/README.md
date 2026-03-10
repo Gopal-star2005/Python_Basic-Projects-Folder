@@ -80,21 +80,21 @@ python calculator.py
 
 # 🎯 Use Cases
 
--Python programming practice
--Learning CLI application design
--Understanding basic arithmetic logic
--Demonstrating Python functions and error handling
+1. Python programming practice
+2. Learning CLI application design
+3. Understanding basic arithmetic logic
+4. Demonstrating Python functions and error handling
 
 ---
 
 # 🧠 Concepts Demonstrated
 
--Python functions
--Conditional logic
--Loops
--Input validation
--Exception handling
--CLI application structure
+1. Python functions
+2. Conditional logic
+3. Loops
+4. Input validation
+5. Exception handling
+6. CLI application structure
 
 ---
 
@@ -106,18 +106,18 @@ This project is licensed under the MIT License.
 
 # 🤝 Contributions
 
-Contributions are welcome.
-Fork the repository
-Create a feature branch
-Submit a pull request
+- Contributions are welcome
+- Fork the repository
+- Create a feature branch
+- Submit a pull request
 
 ---
 
 # 📬 Contact
 
-📧 Email: mahapatragopalkrushna34@gmail.com
-💼 LinkedIn: http://www.linkedin.com/in/gopal-krushna-mahapatra-3a974928b
-🧑‍💻 GitHub: https://github.com/Gopal-star2005
+- 📧 Email: mahapatragopalkrushna34@gmail.com
+- 💼 LinkedIn: http://www.linkedin.com/in/gopal-krushna-mahapatra-3a974928b
+- 🧑‍💻 GitHub: https://github.com/Gopal-star2005
 
 ---
 
